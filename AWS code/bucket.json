@@ -1,0 +1,40 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "Statement1",
+			"Principal": {},
+			"Effect": "Allow",
+			"Action": [
+				"rds-db:*",
+				"iam:GetAccountSummary",
+				"iam:GetLoginProfile",
+				"iam:ListAccessKeys",
+				"iam:ListAccountAliases",
+				"iam:ListAttachedGroupPolicies",
+				"iam:ListAttachedRolePolicies",
+				"iam:ListAttachedUserPolicies",
+				"iam:ListCloudFrontPublicKeys",
+				"iam:ListEntitiesForPolicy",
+				"iam:ListGroupPolicies",
+				"iam:ListGroups",
+				"iam:ListGroupsForUser",
+				"iam:ListInstanceProfiles",
+				"iam:ListInstanceProfilesForRole",
+				"iam:ListInstanceProfileTags",
+				"iam:ListMFADevices",
+				"iam:*",
+				"apigateway:GET",
+				"apigateway:POST",
+				"apigateway:PUT",
+				"apigateway:AddCertificateToDomain",
+				"apigateway:RemoveCertificateFromDomain",
+				"apigateway:SetWebACL",
+				"apigateway:UpdateRestApiPolicy"
+			],
+			"Resource": [
+				"*"
+			]
+		}
+	]
+}
