@@ -22,4 +22,4 @@ Our system ensures swift and efficient communication between users and authoriti
 5. **Live Interaction System:** Integrate a live interaction system featuring video calls and chat functionalities for emergency situations, promoting effective real-time communication between users and authorities.
 
 ## flow chart 
-![sflowchart-animation](https://github.com/ankitsubhamjyoti2005/RJPOLICE_HACK_1726_RAVEN_13/blob/main/flowchart-animation.gif)
+![flowchart-animation](https://github.com/ankitsubhamjyoti2005/RJPOLICE_HACK_1726_RAVEN_13/blob/main/flowchart-animation.gif)
